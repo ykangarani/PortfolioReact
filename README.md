@@ -7,7 +7,6 @@
 # Deploying
 
 - It has been deployed to github pages on you can visit now.
-- [Visit it here]
 
 # Technologies
 
