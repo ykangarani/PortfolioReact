@@ -7,7 +7,7 @@
 # Deploying
 
 - It has been deployed to github pages on you can visit now.
-[Visit here}(https://ykangarani.github.io/)
+[Visit here](https://ykangarani.github.io/)
 
 # Technologies
 
